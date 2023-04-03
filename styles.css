@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	flex-directio:row;
+
+	gap:10px;
+}
+.box{
+	width:100px;
+	
+	height:100px;
+	background-color:red;
+}
